@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Recent Blog Posts
 <!-- BLOG-POSTS:START -->
+- [A Cambrian Explosion of Personal Software](https://jeffjjohnston.github.io/2026/11/03/cambrian-explosion-of-personal-software/)
 - [Counterpoise Public Release](https://jeffjjohnston.github.io/2026/08/23/counterpoise-public-release/)
 - [Towards self-improving software](https://jeffjjohnston.github.io/2026/03/26/towards-self-improving-software/)
 - [The age of software has only just begun](https://jeffjjohnston.github.io/2026/03/05/the-age-of-software/)
 - [The evolution of an idea](https://jeffjjohnston.github.io/2026/01/10/evolution-of-an-idea/)
-- [Observability part 2: AI assistance](https://jeffjjohnston.github.io/2025/11/30/observability-in-genomics-part-2/)
 <!-- BLOG-POSTS:END -->
